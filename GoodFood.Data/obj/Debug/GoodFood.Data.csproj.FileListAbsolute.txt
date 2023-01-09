@@ -1,0 +1,6 @@
+C:\Users\gebala.j\source\repos\GoodFood\GoodFood.Data\bin\Debug\GoodFood.Data.dll
+C:\Users\gebala.j\source\repos\GoodFood\GoodFood.Data\bin\Debug\GoodFood.Data.pdb
+C:\Users\gebala.j\source\repos\GoodFood\GoodFood.Data\obj\Debug\GoodFood.Data.csproj.AssemblyReference.cache
+C:\Users\gebala.j\source\repos\GoodFood\GoodFood.Data\obj\Debug\GoodFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\gebala.j\source\repos\GoodFood\GoodFood.Data\obj\Debug\GoodFood.Data.dll
+C:\Users\gebala.j\source\repos\GoodFood\GoodFood.Data\obj\Debug\GoodFood.Data.pdb
