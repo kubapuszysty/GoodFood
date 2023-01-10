@@ -11,9 +11,11 @@ namespace GoodFood.web.Controllers
     public class GreetingController : Controller
     {
         // GET: Greeting
-        public ActionResult Index()
+        public ActionResult Index(string name)
         {
             var model = new GreetingViewModel();
+            //var name = HttpContext.Request.QueryString["name"]; //usually pass a variable in Index()
+            model.Name = name ?? "there's no name";
             model.Message = ConfigurationManager.AppSettings["message"];
             return View(model);
         }
