@@ -73,6 +73,7 @@ namespace GoodFood.web.Controllers
             if(ModelState.IsValid)
             {
                 db.Update(restaurant);
+                TempData["Message"] = "You saved this restaurant!";
                 return RedirectToAction("Details", new { id = restaurant.Id });
             }
 
